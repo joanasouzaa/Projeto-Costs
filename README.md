@@ -1,5 +1,5 @@
 ## 1.Use o comando "npm start" no Node.js
-## 2.Use o comando "npm run backend" no Node.js para simular os elementos do banco de dedos do projeto
+## 2.Use o comando "npm run backend" no Node.js para simular os elementos do banco de dados do projeto
 
 ### Tela inicial do projeto
 
